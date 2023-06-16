@@ -19,12 +19,8 @@ ratings.csv: This file contains the book rating information. Ratings (Book-Ratin
 # The Code
 The code for the book recommendation system is written in Python. The code is divided into two main parts:
 
-# The data processing code:
-This code cleans and preprocesses the data.
-# The recommendation system code: 
-This code builds and evaluates the recommendation system.
-# The Results
-The recommendation system was evaluated using the root mean squared error (RMSE) metric. The RMSE score of the system was 0.91, which is a relatively good score.
+The data processing code: This code cleans and preprocesses the data.
+The recommendation system code: This code builds and evaluates the recommendation system.
 
-How to Use the Code
+# How to Use the Code
 The code in this repository can be used to build your own book recommendation system. To use the code, you will need to download the Book-Crossing dataset and install the necessary Python packages.
