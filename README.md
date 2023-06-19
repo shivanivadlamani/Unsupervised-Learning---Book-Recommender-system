@@ -1,5 +1,15 @@
 # Unsupervised-Learning---Book-Recommender-system
 
+A recommendation system is one of the top applications of data science. Every consumer Internet company requires a recommendation system like Netflix, Youtube, a news feed, etc. What you want to show out of a huge range of items is a recommendation system.
+
+# What actually is Recommendation System
+A recommendation engine is a class of machine learning which offers relevant suggestions to the customer.  Before the recommendation system, the major tendency to buy was to take a suggestion from friends. But Now Google knows what news you will read, Youtube knows what type of videos you will watch based on your search history, watch history, or purchase history.
+
+A recommendation system helps an organization to create loyal customers and build trust by them desired products and services for which they came on your site. The recommendation system today are so powerful that they can handle the new customer too who has visited the site for the first time. They recommend the products which are currently trending or highly rated and they can also recommend the products which bring maximum profit to the company.
+
+# Types Of Recommendation System
+A recommendation system is usually built using 3 techniques which are content-based filtering, collaborative filtering, and a combination of both.
+
 ![image](https://github.com/shivanivadlamani/Unsupervised-Learning---Book-Recommender-system/assets/113968903/ff7b5004-7eff-47a6-820f-3c3b2f68a0d5)
 
 
